@@ -20,16 +20,7 @@ Bandit Level 12->13: 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL</br>
 Bandit Level 13->14: 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e</br>
 Bandit Level 14->15: BfMYroe26WYalil77FoDi9qh59eK5xNr</br>
 Bandit Level 15->16: cluFn7wTiGryunymYOu4RcffSxQluehd</br>
-Bandit Level 16->17: -----BEGIN RSA PRIVATE KEY-----
-MIIEogIBAAKCAQEAvmOkuifmMg6HL2YPIOjon6iWfbp7c3jx34YkYWqUH57SUdyJ
-imZzeyGC0gtZPGujUSxiJSWI/oTqexh+cAMTSMlOJf7+BrJObArnxd9Y7YT2bRPQ
-Ja6Lzb558YW3FZl87ORiO+rW4LCDCNd2lUvLE/GL2GWyuKN0K5iCd5TbtJzEkQTu
-...
-77pBAoGAMmjmIJdjp+Ez8duyn3ieo36yrttF5NSsJLAbxFpdlc1gvtGCWW+9Cq0b
-dxviW8+TFVEBl1O4f7HVm6EpTscdDxU+bCXWkfjuRb7Dy9GOtt9JPsX8MBTakzh3
-vBgsyi/sN3RqRBcGU40fOoZyfAMT8s1m/uYv52O6IgeuZ/ujbjY=
------END RSA PRIVATE KEY-----
-Uses RSA Private Key for ssh
+Bandit Level 16->17: Uses private RSA ssh key
 Bandit Level 17->18: kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
 Bandit Level 18->19: IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
 Bandit Level 19->20: GbKksEFF4yrVs6il55v6gwY5aVje5f0j
