@@ -1,6 +1,6 @@
 # OverTheWirePasswords
 Has all of the passwords for each level of the OverTheWire challenges that I have completed. 
-I made this so I don't have to lookup each password that I forget over time. 
+I made this so I don't have to lookup each password every time I come back to this.
 
 ## Bandit
 Bandit Level 0: ssh -p 2220 bandit0@bandit.labs.overthewire.org</br>
